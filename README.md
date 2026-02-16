@@ -1,1 +1,1 @@
-maxlampatv-max.github.io
+lampatv-max.github.io
